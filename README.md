@@ -31,7 +31,7 @@ Chunking – Splits text by sentences (using Telugu punctuation ।, !, ?, newli
 Translation – Uses deep-translator (Google Translate) with chunking to avoid API limits.
 Output – Saves the translated text as UTF‑8 plain text.
 
-Requirements
+**Requirements**
 pdfplumber
 deep-translator
 python-docx
